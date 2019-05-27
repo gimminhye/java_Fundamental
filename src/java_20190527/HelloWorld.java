@@ -6,5 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello Worldooooooo");
 		System.out.println("Hello Worldooooooo");
 		System.out.println("Hello Worldooooooo");
+		
+		long implement = 1300000l; 
 	}
 }	
